@@ -27,3 +27,5 @@ View the interactive dashboard on Tableau Public.
 
 ## Dataset
 Brief explanation of the dataset used in this project.
+
+Link Tableau: https://public.tableau.com/app/profile/mikdad.nahdawi/viz/FINANCIAL_PERFORMANCE_DASHBOARD_LOTUS_RETAIL_31_DECEMBER2024/DashboardFS
