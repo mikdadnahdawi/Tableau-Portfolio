@@ -1,0 +1,37 @@
+﻿Record_ID,Statement,Category,Account, Amount ,Period_Start,Period_End,As_Of_Date,Is_Total,Sort_Order
+1,Income Statement,Revenue,Gross Revenue," 15,580,941 ",2024-01-01,2024-12-31,,FALSE,1
+2,Income Statement,Revenue,Less: Sales Returns," (1,437,905)",2024-01-01,2024-12-31,,FALSE,2
+3,Income Statement,Revenue,Net Revenue," 14,143,036 ",2024-01-01,2024-12-31,,FALSE,3
+4,Income Statement,Cost of Sales,Cost of Goods Sold (COGS)," (11,117,500)",2024-01-01,2024-12-31,,FALSE,4
+5,Income Statement,Gross Profit,Gross Profit," 3,025,536 ",2024-01-01,2024-12-31,,TRUE,5
+6,Income Statement,Operating Expenses,Salaries and Wages Expense," (1,573,726)",2024-01-01,2024-12-31,,FALSE,6
+7,Income Statement,Operating Expenses,Facility Rental Expense," (235,350)",2024-01-01,2024-12-31,,FALSE,7
+8,Income Statement,Operating Expenses,Marketing Expense," (568,200)",2024-01-01,2024-12-31,,FALSE,8
+9,Income Statement,Operating Expenses,Utilities and Other Expenses," (21,150)",2024-01-01,2024-12-31,,FALSE,9
+10,Income Statement,Operating Expenses,Depreciation Expense," (15,000)",2024-01-01,2024-12-31,,FALSE,10
+11,Income Statement,Operating Expenses,Total Operating Expenses," (2,413,426)",2024-01-01,2024-12-31,,TRUE,11
+12,Income Statement,Operating Profit,Operating Profit," 612,110 ",2024-01-01,2024-12-31,,TRUE,12
+13,Income Statement,Finance Costs,Interest Expense," (75,536)",2024-01-01,2024-12-31,,FALSE,13
+14,Income Statement,Profit Before Tax,Profit Before Tax," 536,574 ",2024-01-01,2024-12-31,,TRUE,14
+15,Income Statement,Income Tax,Income Tax Expense," (25,000)",2024-01-01,2024-12-31,,FALSE,15
+16,Income Statement,Net Profit,Net Profit," 511,574 ",2024-01-01,2024-12-31,,TRUE,16
+17,Statement of Changes in Equity,Equity,"Beginning Capital (January 1, 2024)"," 8,308,426 ",2024-01-01,2024-12-31,2024-12-31,FALSE,17
+18,Statement of Changes in Equity,Equity,Add: Net Profit for the Current Year," 511,574 ",2024-01-01,2024-12-31,2024-12-31,FALSE,18
+19,Statement of Changes in Equity,Equity,Less: Owner's Withdrawals (Drawings)," (20,000)",2024-01-01,2024-12-31,2024-12-31,FALSE,19
+20,Statement of Changes in Equity,Equity,"Ending Capital (December 31, 2024)"," 8,800,000 ",2024-01-01,2024-12-31,2024-12-31,TRUE,20
+21,Statement of Financial Position,Current Assets,Cash and Cash Equivalents," 3,450,000 ",,,2024-12-31,FALSE,21
+22,Statement of Financial Position,Current Assets,Accounts Receivable," 1,250,000 ",,,2024-12-31,FALSE,22
+23,Statement of Financial Position,Current Assets,Inventory," 4,500,000 ",,,2024-12-31,FALSE,23
+24,Statement of Financial Position,Current Assets,Total Current Assets," 9,200,000 ",,,2024-12-31,TRUE,24
+25,Statement of Financial Position,Fixed Assets,Store Buildings," 15,000,000 ",,,2024-12-31,FALSE,25
+26,Statement of Financial Position,Fixed Assets,Equipment and Computers," 2,500,000 ",,,2024-12-31,FALSE,26
+27,Statement of Financial Position,Fixed Assets,Accumulated Depreciation," (500,000)",,,2024-12-31,FALSE,27
+28,Statement of Financial Position,Fixed Assets,Total Fixed Assets," 17,000,000 ",,,2024-12-31,TRUE,28
+29,Statement of Financial Position,Assets,Total Assets," 26,200,000 ",,,2024-12-31,TRUE,29
+30,Statement of Financial Position,Current Liabilities,Accounts Payable," 1,150,000 ",,,2024-12-31,FALSE,30
+31,Statement of Financial Position,Current Liabilities,Taxes Payable," 250,000 ",,,2024-12-31,FALSE,31
+32,Statement of Financial Position,Current Liabilities,Total Current Liabilities," 1,400,000 ",,,2024-12-31,TRUE,32
+33,Statement of Financial Position,Non-current Liabilities,Bank Loan (Expansion Financing)," 16,000,000 ",,,2024-12-31,FALSE,33
+34,Statement of Financial Position,Non-current Liabilities,Total Non-current Liabilities," 16,000,000 ",,,2024-12-31,TRUE,34
+35,Statement of Financial Position,Equity,Ending Capital," 8,800,000 ",,,2024-12-31,FALSE,35
+36,Statement of Financial Position,Liabilities and Equity,Total Liabilities and Equity," 26,200,000 ",,,2024-12-31,TRUE,36
