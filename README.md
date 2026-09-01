@@ -11,7 +11,7 @@ A retail performance dashboard designed to analyze business performance and tren
 
 **Focus:** Retail Analytics, Performance Analysis, Data Visualization
 
-### 2. Lotus Retail Financial Performance Dashboard — 31 December 2024
+### 2. Lotus Retail Financial Performance Dashboard - 31 December 2024
 
 A financial performance dashboard focused on presenting and analyzing the financial condition and performance of Lotus Retail.
 
