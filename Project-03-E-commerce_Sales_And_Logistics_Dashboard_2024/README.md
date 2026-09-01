@@ -27,3 +27,5 @@ View the interactive dashboard on Tableau Public.
 
 ## Dataset
 Brief explanation of the dataset used in this project.
+
+Link Tableau: https://public.tableau.com/app/profile/mikdad.nahdawi/viz/ECOMMERCE_SALES_AND_LOGISTICS_DASHBOARD_2024/Dashboard1
